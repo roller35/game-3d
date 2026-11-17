@@ -1,0 +1,6 @@
+{
+  "name": "Crowd Rush 3D",
+  "description": "Fast-paced 3D crowd-running arcade action game with 50 campaign levels across 6 worlds, boss battles, endless survival, route choices, upgrades, and mobile swipe controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
